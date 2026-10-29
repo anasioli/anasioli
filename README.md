@@ -16,14 +16,29 @@
 ## 🧰 Tecnologias e ferramentas
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-273469?style=for-the-badge&logo=microsoftsqlserver)
+![BigQuery](https://img.shields.io/badge/BigQuery-273469?style=for-the-badge&logo=googlebigquery)
 ![Python](https://img.shields.io/badge/Python-273469?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-273469?style=for-the-badge&logo=pandas)
-![BigQuery](https://img.shields.io/badge/BigQuery-273469?style=for-the-badge&logo=googlebigquery)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-273469?style=for-the-badge&logo=looker)
 ![Power BI](https://img.shields.io/badge/Power%20BI-273469?style=for-the-badge&logo=powerbi)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-273469?style=for-the-badge&logo=googlesheets)
 ![Excel](https://img.shields.io/badge/Excel-273469?style=for-the-badge&logo=microsoftexcel)
+![HTML](https://img.shields.io/badge/HTML-273469?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-273469?style=for-the-badge&logo=css)
+![ETLs](https://img.shields.io/badge/ETLs-273469?style=for-the-badge)
+![FCDs](https://img.shields.io/badge/FCDs-273469?style=for-the-badge)
 
+---
+
+## 💼 Atualmente
+
+**Analista de Intelligence Data & Execution Analysis no Mercado Livre**  
+Trabalho com dados, indicadores e soluções que apoiam a análise e a operação.
+
+## 🎓 Formação
+
+- **Administração** — FAM
+- **Pós-graduação em Engenharia de Dados** — PUC Minas *(cursando)*
 </div>
 
 ---
