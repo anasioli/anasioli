@@ -2,13 +2,13 @@
 
 # Oi, eu sou Ana Beatriz 👋
 
-### Intelligence Data | [sua área ou objetivo]
+### Data Analyst
 
 </div>
 
 ## 🛠️ Tecnologias
 
-Escreva aqui as ferramentas e linguagens que você usa.
+SQLserver | Python | Pandas | Bigquery | Looker Studio | Power BI | HTML/CSS | Javascript | Appscript | Excel | Google Sheets | ETL | FCDs
 
 ## 📊 Projetos em destaque
 
@@ -17,4 +17,7 @@ Escreva aqui as ferramentas e linguagens que você usa.
 
 ## 👩‍💻 Sobre mim
 
-Escreva algumas linhas sobre você, seu trabalho e o que está aprendendo.
+Oi! Sou a Ana Beatriz 😊  
+Gosto de aprender coisas novas, explorar ideias e deixar tudo um pouquinho mais organizado, inclusive meu cantinho por aqui.
+
+Trabalho com dados e tecnologia, e criei este espaço para reunir alguns projetos e interesses. Fique à vontade para dar uma olhada 💙
