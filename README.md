@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anasioli/anasioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oi, eu sou Ana Beatriz 👋
 
-Here are some ideas to get you started:
+### Intelligence Data | [sua área ou objetivo]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🛠️ Tecnologias
+
+Escreva aqui as ferramentas e linguagens que você usa.
+
+## 📊 Projetos em destaque
+
+- [Beauty-studio](LINK_DO_REPOSITORIO) — site para estúdio de extensão de cílios
+- [Central de Dashboards](LINK_DO_REPOSITORIO) — dashboards e indicadores
+
+## 👩‍💻 Sobre mim
+
+Escreva algumas linhas sobre você, seu trabalho e o que está aprendendo.
