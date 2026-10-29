@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:273469,100:8AA9D6&height=190&section=header&text=Oi,%20eu%20sou%20Ana%20Beatriz&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### ✨ Intelligence Data · Dados, tecnologia e curiosidade
+### ✨ Data Analyst · Dados e tecnologia 
 
 [![GitHub](https://img.shields.io/badge/GitHub-anasioli-273469?style=for-the-badge&logo=github)](https://github.com/anasioli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Beatriz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anabeatriz-analytics/)
 
 </div>
 
